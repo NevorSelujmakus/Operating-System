@@ -1,0 +1,70 @@
+ctr + / #to split screen
+
+
+
+
+before 1:00
+
+
+
+1st task: sys call
+
+will use  FORK, GET pID, and WAIT
+
+1 process parent
+
+will create child para 2 na yung pID
+
+BUT
+
+5 PID expected
+
+Will print the last child first then ascending
+
+
+
+
+NO.2
+
+FCFS scheduling
+WITH
+
+
+10 Burst time
+9
+8
+7
+8
+7
+8
+2
+1
+2
+5
+
+
+ARRIVAL TIME - 
+
+
+
+
+SJF
+5 element
+Burst Time
+99.99
+107.9
+143.77
+20.24
+50.55
+66.66
+
+
+ROUND ROBIN
+QUANTUM TIME : 25
+Burst Time
+99.99
+107.9
+143.77
+20.24
+50.55
+66.66
